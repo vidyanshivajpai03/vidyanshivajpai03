@@ -4,7 +4,6 @@
 
   <p>I enjoy tackling complex algorithmic challenges and am currently building an online code evaluation platform, alongside diving deep into core computer science concepts.</p>
 
-  <img src="https://komarev.com/ghpvc/?username=block-plant&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 
 </div>
 
