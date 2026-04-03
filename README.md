@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Vidyanshi+👋;Full-Stack+Developer;Competitive+Programmer;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Vidyanshi+👋;Full-Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
 
-  <p>I enjoy tackling complex algorithmic challenges and am currently building an online code evaluation platform, alongside diving deep into core computer science concepts.</p>
+  <p>I enjoy tackling complex algorithmic challenges, alongside diving deep into core computer science concepts.</p>
 
 
 </div>
@@ -71,13 +71,13 @@
 ###  GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=block-plant&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vidyanshivajpai03&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br><br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/block-plant/block-plant/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/block-plant/block-plant/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/block-plant/block-plant/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vidyanshivajpai03/vidyanshivajpai03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vidyanshivajpai03/vidyanshivajpai03/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vidyanshivajpai03/vidyanshivajpai03/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
