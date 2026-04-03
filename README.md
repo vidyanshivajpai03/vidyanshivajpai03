@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Ayush+👋;Full-Stack+Developer;Competitive+Programmer;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Vidyanshi+👋;Full-Stack+Developer;Competitive+Programmer;Building+Scalable+Systems" alt="Typing SVG" />
 
   <p>I enjoy tackling complex algorithmic challenges and am currently building an online code evaluation platform, alongside diving deep into core computer science concepts.</p>
 
